@@ -1,10 +1,11 @@
 import './App.css'
+import { Login } from './Login'
 
 function App() {
 
   return (
     <>
-      <div>Welcome to Sketch Bank!</div>
+      <Login />
     </>
   )
 }
